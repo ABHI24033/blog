@@ -9,7 +9,7 @@ Welcome to our Blogging Website! This README file provides an overview of how to
 
 ## Getting Started
 To get started with our Blogging Website, follow these steps:
- - Visit the Website: Go to www.ourbloggingwebsite.com in your web browser.
+ - Visit the Website: Go to (https://blog-seven-xi-20.vercel.app/)in your web browser.
  - Start by exploring the existing blogs on the platform.
  - If you'd like to contribute your own blog, you need to click on create blog and start writing.
  -  Engage with other users by commenting on their blogs and sharing your thoughts.
